@@ -1,0 +1,2 @@
+# Banking-problem-data
+To predict the Response of the customers in a bank. This dataset contains 19  columns and more than 45,000 rows of data. Performed EDA(Exploratory Data Analysis) on the data and cleaned the data. Dropped a few records of a column(pdays) due to outliers. Applied logistic regression on the data, and got the accuracy of 78%. And then applied Random Forest to data and the accuracy improved by 10% .
